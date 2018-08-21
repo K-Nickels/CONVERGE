@@ -1,2 +1,2 @@
-# CONVERGE
-CONVERGE Handbook
+# Initial page
+
