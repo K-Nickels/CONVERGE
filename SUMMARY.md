@@ -8,7 +8,7 @@
   * [Campaigning for change](being/campaigning-for-change.md)
   * [Inclusion & equity practice](being/inclusion-and-equity-practice.md)
 * [Doing](doing.md)
-* [Labs definition](labs-definition.md)
-* [The Canadian Labs Landscape](the-canadian-labs-landscape/README.md)
-  * [Labs definition](the-canadian-labs-landscape/labs-definition.md)
+* [The Canadian Labs Landscape](labs-landscape/README.md)
+  * [Canadian Labs Landscape Slide Deck \(Google Slides\)](https://docs.google.com/presentation/d/1njhx7pVncUXwXNh9aTqfwypQyva4GYVPoSfeBcgJmog/edit?usp=sharing)
+  * [Labs definition](labs-landscape/labs-definition.md)
 

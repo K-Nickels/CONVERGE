@@ -1,2 +1,0 @@
-# The Canadian Labs Landscape
-
