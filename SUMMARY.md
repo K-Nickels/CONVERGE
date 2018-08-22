@@ -10,5 +10,11 @@
 * [Being](being/README.md)
   * [Campaigning for change](being/campaigning-for-change.md)
   * [Inclusion & equity practice](being/inclusion-and-equity-practice.md)
-* [Doing](doing.md)
+  * [Innovation for real transformation](being/innovation-for-real-transformation.md)
+* [Doing](doing/README.md)
+  * [Starting a Lab](doing/starting-a-lab.md)
+  * [Lab Methodologies](doing/lab-methodologies.md)
+  * [Emergent Lab Typologies](doing/emergent-lab-typologies.md)
+  * [Lab Funding and Resourcing](doing/lab-funding-and-resourcing.md)
+  * [Labs Evaluation](doing/labs-evaluation.md)
 
