@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [About this handbook](README.md)
 * [The Canadian Labs Landscape](labs-landscape/README.md)
   * [Canadian Labs Landscape Slide Deck \(Google Slides\)](https://docs.google.com/presentation/d/1njhx7pVncUXwXNh9aTqfwypQyva4GYVPoSfeBcgJmog/edit?usp=sharing)
   * [Labs definition](labs-landscape/labs-definition.md)

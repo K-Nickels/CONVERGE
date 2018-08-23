@@ -2,43 +2,43 @@
 
 ## CONVERGE Insights
 
-* **“There is a loud call for us to take this learning” -** at the end of CONVERGE there was a strong call to action for each of us to do our learning about equity practice, identifying who is doing it strongly and growing this capacity as a field, not pretending that the shadows aren’t there. 
-* **To dismantle oppression you must understand the deep history** including who benefitted from it. Ask yourself, how has my history, culture and identity led me to this work and where you are now? What strengths and privileges do you gain from power and oppression? 
-* **Being human together, not just minds -** connecting past the boxes we put people in in our hearts and bringing our hearts, feelings, our whole selves. Practicing really hearing and seeing each other in a deeper way than just intellect. 
-* **We must invest in engaging and working with our most vulnerable peoples** as they often have the least individual surplus of time and money. 
-* **We can create spaces to explore the mainstream and margin at play in every group,** organization and system using [Deep Democracy](http://www.deepdemocracyinstitute.org/deep-democracy-explained.html) principles. [This exercise on rank](http://processworklane.com/rank-and-economy/) can be a good place to start to learn to negotiate these dynamics with dignity, clarity and accountability. Note : this is a high-trust exercise, proceed with care. 
-* **Continuum of engagement : Informed by, doing with, doing as \(Diagram\)**
+* **Two-eyed-seeing** refers to a way of recognising and valuing different systems of knowledge alongside each other e.g. Western Capitalist vs Indigenous, recognising the strengths and biases of each in a non-judgemental way. This approach has been applied with up to 12 systems of knowledge all being put as lenses to understand systems through. 
+* **Decolonizing vs reconciliation.**
+  * Decolonizing creates a binary or negative. Appropriate in that it is getting to power and balances - institutions and practices. Thinking outside the box.
+  * Reconciliation is safer and more positive. It involves truth-telling \(listening, not jumping to problem-solving “community needs to sit with it’s own data”\) and creating relationships with indigenous. Thinking inside the circle \(centring indigenous wisdom\). 
+* **Indigenous are natural systems thinkers** in the way they understand the interconnectedness of all things and different ways of knowing. 
+* **Nations are really diverse** and should be treated as such. Panelist Melanie Goodchild pointed out that when they come to a new territory or setting they request to be forgiven for any offenses they may make in protocol. 
+* **The best way to learn is to immerse yourself** by going to indigenous communities on reserve rather than asking them to sit around a board table writing on post-it notes. Take the time to enter into a different experience of time, language, connection to land and relationship to people. 
+* **Pay people for their time**, recognizing a lot is asked of indigenous elders and knowledge keepers are leaving their families and other responsibilities to help your project. 
+* **Inclusion continuum** :
+  * Token inclusion / consultation
+  * Indigenous opening
+  * On board / governance committee
+  * Hire on team as equals
+  * Indigenous in leadership position
+  * Indigenize resource flows and business models
 
 ## Questions to consider
 
-* What is the balance between tokenism and targeted diversity? Is it possible to go too far down the equity path laid with good intentions and lose sight of the practice? 
-* What kinds of borders are we putting around our gatherings? What fears are they serving? 
-* How can we create an environment where we can ask the hard questions of ourselves and each other, staying in respectful relationship through the discomfort?
+* How can we meaningfully engage indigenous people while being respectful of people’s time and priorities and consultation fatigue? How can we start positively? 
+* Are there pieces of indigenous knowledge and ways of knowing that we can use ethically \(without appropriation\)? 
+* How can we sit together better in our differences? 
 
 {% hint style="info" %}
 ## **Provocations for your lab**
 
-**How human-centred is your design?** Designers are trained to be exclusive. How can we create better connections between ethnographic research and design to create richer, more valid personas that produce better prototypes and policy change? Could labs develop mastery of this?  
-  
-**Convening with equity practice at the heart.** What would change if we led with reconciliation as the foundational plenary, setting the DNA to practice conscious anti-discrimination in the whole event? What would it mean for the next gathering to not be majority white? How can we make space for those who are usually left out? This comes down to questions of valuing and leadership. Who is leading the event and who do they value being there?  
-  
-**Accessible language -** how can we make terminology that is easier to understand as a way of opening up the ‘black box’ of lab practice to everyone? Who are you currently excluding with the language you’re choosing to use?
+**Are you going to indigenous communities holding the assumption that there is critical wisdom there you need to integrate into your lab?** How much are you willing to value and invest in that wisdom? A lot of people want to “do reconciliation”. But reconciliation is about relationship building. It’s premised on respectful relationships. Not just about inviting indigenous people to dance and be beads and feathers – which is beautiful – but we want to be critical thinkers + join the conversation.
+
+**What is your acceptable pace of engagement?** Can you recognize that in order to solve wicked, intergenerational problems we need to slow down and build the relationships first to create an environment of trust and mutual care so we can have the critical dialogue?
+
+**Are you recognizing the authority, wisdom and value of ALL LIFE in your lab practice?** Or are you centred totally on humans? For indigenous peoples, humans are not the central beings. All the agency is distributed between the land, humans, water, animals.
 {% endhint %}
 
-## Exercises
-
 {% tabs %}
-{% tab title="INVISIBLE BACKPACK" %}
-![](../.gitbook/assets/screen-shot-2018-08-21-at-6.25.52-pm.png)
+{% tab title="1000 CUPS OF TEA METHODOLOGY" %}
+![](../.gitbook/assets/coffee-1295064_960_720%20%281%29.png)
 
-### **What is the invisible backpack you carry with you everywhere?**
-
-**What is the context and history** **that have shaped :**
-
-* Your narratives about yourself
-* Your values
-* Your desires
-* Your beliefs?
+**Would you be willing to have 1000 cups of tea** as process for systems-mapping \(through stories\) and relationship-building to engage with indigenous knowledge-keepers?
 {% endtab %}
 {% endtabs %}
 

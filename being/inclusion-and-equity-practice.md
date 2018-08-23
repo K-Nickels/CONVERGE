@@ -25,10 +25,8 @@
 **Accessible language -** how can we make terminology that is easier to understand as a way of opening up the ‘black box’ of lab practice to everyone? Who are you currently excluding with the language you’re choosing to use?
 {% endhint %}
 
-## Exercises
-
 {% tabs %}
-{% tab title="INVISIBLE BACKPACK" %}
+{% tab title="INVISIBLE BACKPACK EXERCISE" %}
 ![](../.gitbook/assets/screen-shot-2018-08-21-at-6.25.52-pm.png)
 
 ### **What is the invisible backpack you carry with you everywhere?**
