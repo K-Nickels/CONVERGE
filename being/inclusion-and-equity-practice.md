@@ -9,7 +9,7 @@
 * **We can create spaces to explore the mainstream and margin at play in every group,** organization and system using [Deep Democracy](http://www.deepdemocracyinstitute.org/deep-democracy-explained.html) principles. [This exercise on rank](http://processworklane.com/rank-and-economy/) can be a good place to start to learn to negotiate these dynamics with dignity, clarity and accountability. Note : this is a high-trust exercise, proceed with care. 
 * **Continuum of engagement : Informed by, doing with, doing as \(Diagram\)**
 
-## Questions to consider
+## Present questions
 
 * What is the balance between tokenism and targeted diversity? Is it possible to go too far down the equity path laid with good intentions and lose sight of the practice? 
 * What kinds of borders are we putting around our gatherings? What fears are they serving? 

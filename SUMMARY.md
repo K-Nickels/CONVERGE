@@ -1,9 +1,10 @@
 # Table of contents
 
 * [About this handbook](README.md)
-* [The Canadian Labs Landscape](labs-landscape/README.md)
-  * [Canadian Labs Landscape Slide Deck \(Google Slides\)](https://docs.google.com/presentation/d/1njhx7pVncUXwXNh9aTqfwypQyva4GYVPoSfeBcgJmog/edit?usp=sharing)
+* [Canadian Labs Landscape](labs-landscape/README.md)
   * [Labs definition](labs-landscape/labs-definition.md)
+  * [Canadian Labs Landscape Slide Deck \(Google Slides\)](https://docs.google.com/presentation/d/1njhx7pVncUXwXNh9aTqfwypQyva4GYVPoSfeBcgJmog/edit?usp=sharing)
+  * [CONVERGE Outcomes Report](labs-landscape/converge-outcomes-report.md)
 * [Seeing](seeing/README.md)
   * [Systems & complexity](seeing/systems-and-complexity.md)
   * [Indigenous ways of knowing](seeing/indigenous-ways-of-knowing.md)

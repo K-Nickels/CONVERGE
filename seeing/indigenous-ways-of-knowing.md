@@ -18,7 +18,7 @@
   * Indigenous in leadership position
   * Indigenize resource flows and business models
 
-## Questions to consider
+## Present questions
 
 * How can we meaningfully engage indigenous people while being respectful of people’s time and priorities and consultation fatigue? How can we start positively? 
 * Are there pieces of indigenous knowledge and ways of knowing that we can use ethically \(without appropriation\)? 

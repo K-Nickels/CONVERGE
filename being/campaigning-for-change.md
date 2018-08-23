@@ -6,10 +6,10 @@
 * **We need to listen to people more and build constituencies** with distributed leadership behind our solutions. How can we invite people who aren’t from the lab world or social innovation to be part of it from the beginning? 
 * **Talking about power can be a taboo.** There is a need for trust and secure relationships to start conversations about power dynamics in labs.
 
-## Questions to consider
+## Present questions
 
-* When is it right to embed campaign strategies into a lab?
-* Could campaigns also benefit from lab mindsets by injecting future-focussed thinking?
+* When is it right to embed campaign strategies into a lab? 
+* Could campaigns also benefit from lab mindsets by injecting future-focussed thinking? 
 
 {% hint style="info" %}
 ## **Provocations for your lab**

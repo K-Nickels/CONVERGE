@@ -8,7 +8,7 @@
 
   Inside and outside - include both exterior and interior systems in your maps.
 
-## Questions to consider
+## Present questions
 
 * How can we know which mapping system to use in which context? 
 * How can we be accessible without being reductive? 
