@@ -48,3 +48,22 @@ I call upon the participants of CONVERGE to increase support Indigenous youth an
 * Bring in a racial equity lens through granting and procurement models.
 * Fund, invest and support projects led by Indigenous youth and youth of colour that lead Truth and Reconciliation and anti-oppression work.
 
+## Case studies
+
+{% tabs %}
+{% tab title="RADIUS SFU" %}
+_Written by Kiri Bird, Associate Director RADIUS SFU_
+
+**RADIUS and our leadership team have taken small steps and we are exploring further opportunities to centre a stronger racial equity and decolonization lens in our own processes and structures. So far this has included:**
+
+* Allocating a new, dedicated personal professional development budget to all staff to pursue a training of their choosing to support them to help integrate these principles in their work.
+* Developing dedicated budgets for people of colour on our team to allocate towards mentorship and guidance from solidarity communities.
+* In interviewing processes, explicitly naming our intentions to advance racial equity and decolonization work within our organization, and evaluating candidates’ readiness to engage meaningfully in these discussions.
+* Re-orienting team wide professional development planning and funding to prioritize this work, including engaging outside supports in helping diagnose and develop points of action and process for improving policies, practices and structures.
+* Evaluating of the physical spaces we work in and curate to understand what will help create a safe, supported and welcoming environment and community.
+* Building room into team and organizational development processes to continue to revisit this as a top organizational development priority.
+{% endtab %}
+{% endtabs %}
+
+
+
