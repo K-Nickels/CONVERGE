@@ -11,6 +11,7 @@
 * [Being](being/README.md)
   * [Campaigning for change](being/campaigning-for-change.md)
   * [Inclusion & equity practice](being/inclusion-and-equity-practice.md)
+  * [Recommendations for inclusive practice](being/recommendations-for-inclusive-practice.md)
   * [Innovation for real transformation](being/innovation-for-real-transformation.md)
 * [Doing](doing/README.md)
   * [Starting a Lab](doing/starting-a-lab.md)
