@@ -36,7 +36,7 @@
 
 {% tabs %}
 {% tab title="1000 CUPS OF TEA METHODOLOGY" %}
-![](../.gitbook/assets/coffee-1295064_960_720%20%281%29.png)
+![](../.gitbook/assets/coffee-1295064_960_720.png)
 
 **Would you be willing to have 1000 cups of tea** as process for systems-mapping \(through stories\) and relationship-building to engage with indigenous knowledge-keepers?
 {% endtab %}
