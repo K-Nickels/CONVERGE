@@ -21,7 +21,7 @@ Many things are being called ‘Labs’ these days. What labs look like and the 
 **A lab must be :**
 
 * [ ] Thinking and acting across scales \(systemic\)
-* [ ] With diverse stakeholders, including people with lived experience of problem \(social\)
+* [ ] With diverse stakeholders, including people with lived experience of the challenge \(social\)
 * [ ] In sustained, iterative experiments \(experimental\)
 * [ ] To solve highly complex, intergenerational, wicked problems \(transformational\)
 
@@ -31,7 +31,7 @@ Many things are being called ‘Labs’ these days. What labs look like and the 
 
 ![](../.gitbook/assets/impactoflabs.png)
 
-The impact labs can have is three-fold. Our outputs are prototypes which can me implemented as systemic innovations, but the greater impact labs have is in empowering citizens and increasing the connectivity of communities; creating high-trust constituencies equipped to understand and evolve systems.  
+The impact labs can have is four-fold. First, labs generate and scale prototypes that create new public value. Second, labs empower and build the capacity of citizens and stakeholders to initiate change. Third, labs often innovate the rules of systems, modernizing policies, regulations and bylaws. Fourth, labs increase connectivity across communities, cultures and organizations, creating high-trust constituencies equipped to understand and evolve systems.  
   
 
 
