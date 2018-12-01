@@ -17,5 +17,15 @@
 **Have the conversations about outside power early.** Who are your people? What are their powers? Can we understand and grow these? Who are the people in power that they know?
 {% endhint %}
 
+{% tabs %}
+{% tab title="CONVERGE 2018 Session Recording" %}
+### **Building Outside Power and Narrative Change**
 
+**Speakers : Tovah Paglaro, Darcy Riddell, Michelle German, Delyse Sylvester** 
+
+Labs have the potential to surface and prototype promising solutions based on a deep understanding the complex systems they are working in, but translating those solutions into practical change is all too often a challenge. The focus on process design, relationships and solution generation in the lab can often take precedence over wider public engagement and cultivation of political pathways that make implementation more likely. Campaigns are outcome focused, with refined practices of power analysis and political engagement. In this session, we will consider how a campaign mindset might strengthen lab practice, by considering and embedding pathways to adoption into lab design and execution.
+
+[**&gt;&gt; Listen on Soundcloud**](https://soundcloud.com/chloe-waretini-493556642/converge-2018-building-outside-power-and-narrative-change)\*\*\*\*
+{% endtab %}
+{% endtabs %}
 
